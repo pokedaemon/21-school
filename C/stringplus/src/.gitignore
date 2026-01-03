@@ -1,0 +1,20 @@
+# For coverage report
+coverage/*
+!coverage/.gitkeep
+
+# If you forget make clean before git push Nikita Titov ^^
+*.gcda
+*.gcov
+*.gcno
+*.a
+*.o
+*.info
+
+gcov/*
+!gcov/.gitkeep
+
+obj/*
+!obj/.gitkeep
+
+# Nikita Titov my big friend 
+.DS_Store

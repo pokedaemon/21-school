@@ -1,0 +1,4 @@
+db_data
+model.sql
+Dockerfile
+docker-compose.yml
